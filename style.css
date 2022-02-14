@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  opacity: 0.70;
+}
+
+.first {
+  background-image: url("geio-tischler-GW0x6-5Fp2I-unsplash.jpg");
+  height: 100%;
+  width: 100%;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.first h1 {
+  background-color: black;
+  padding: 16px 14px;
+  font-weight: 200;
+  letter-spacing: 2px;
+}
+
+.second {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.5;
+  margin: 40px 5%;
+}
+
+.third {
+  background-image: url("jeremy-bishop-ggIwUt95hxA-unsplash.jpg");
+  height: 100%;
+  width: 100%;
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+
+}
+
+.fourth {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 10%;
+  background-color: black;
+  color: #fff;
+}
+
+.fifth {
+  background-image: url("masood-aslami-OwKyY_81myA-unsplash.jpg");
+  height: 100%;
+  width: 100%;
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.sixth {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 10%;
+  background-color: black;
+  color: white;
+}
+
+.seven {
+  background-image: url("woody-kelly-IZ1tBR3n07I-unsplash.jpg");
+  height: 100%;
+  width: 100%;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.seven h1 {
+  background-color: black;
+  padding: 16px 14px;
+  font-weight: 200;
+  letter-spacing: 2px;
+}
